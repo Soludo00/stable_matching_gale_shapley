@@ -53,3 +53,10 @@ While working on this implementation, I learned more about:
 - how greedy strategies can be used to solve problems
 - how preference lists affect the final matching
 - why stable matchings are important in real applications
+
+
+## Program Output
+
+Below is a screenshot of the program running in VS Code.
+
+![Stable Matching Program Output](Stable_matching.png)
